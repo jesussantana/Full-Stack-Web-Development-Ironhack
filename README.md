@@ -36,7 +36,7 @@ Bootcamp in Web Development. Get the practical skills you need to land a job in 
 
 ## 3. [LAB | CSS - Instagram Clone](https://github.com/jesussantana/lab-css-instagram-clone)  
 
-## 4. [CSS | CSS - Slack Flexbox](https://github.com/jesussantana/lab-css-flexbox-slack)
+## 4. [LAB | CSS - Slack Flexbox](https://github.com/jesussantana/lab-css-flexbox-slack)
 
 ## 5. [LAB | Bootstrap - Revera Clone](https://github.com/jesussantana/lab-bootstrap-cloning-revera)
 
@@ -48,7 +48,7 @@ Bootcamp in Web Development. Get the practical skills you need to land a job in 
 
 ## 8. [LAB | JS - Clue, Mixing objects and arrays](https://github.com/jesussantana/lab-javascript-clue)  
 
-## 9. [CSS | JS - Greatest Movies of All Time](https://github.com/jesussantana/lab-javascript-greatest-movies)  
+## 9. [LAB | JS - Greatest Movies of All Time](https://github.com/jesussantana/lab-javascript-greatest-movies)  
 
 ## 10. [LAB | JS - Vikings Object-oriented programming](https://github.com/jesussantana/lab-javascript-vikings)
 
@@ -58,7 +58,7 @@ Bootcamp in Web Development. Get the practical skills you need to land a job in 
 
 ## 12. [LAB | DOM - Ironhack Cart](https://github.com/jesussantana/lab-dom-ironhack-cart)  
 
-## 13. [CSS | DOM - Pizza Builder](https://github.com/jesussantana/lab-dom-pizza-builder)
+## 13. [LAB | DOM - Pizza Builder](https://github.com/jesussantana/lab-dom-pizza-builder)
 
 ## 14. [LAB | DOM - Memory Game](https://github.com/jesussantana/lab-javascript-memory-game)
 
