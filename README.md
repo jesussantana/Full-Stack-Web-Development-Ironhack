@@ -7,20 +7,20 @@ Bootcamp in Web Development. Get the practical skills you need to land a job in 
 
 # [Ironhack Certificate](https://www.credential.net/9eef6b4e-0989-4d2e-bab4-d5f58037b0b1)
 
-## Project Module 1
-- [Tetris Conquest](https://jesussantana.github.io/TetrisConquest/)
-- [Github Tetris Conquest](https://github.com/jesussantana/TetrisConquest)
+# Project Module 1
+- ## [Tetris Conquest](https://jesussantana.github.io/TetrisConquest/)
+- ## [Github Tetris Conquest](https://github.com/jesussantana/TetrisConquest)
 - The game is a tetris version set in planetary conquest by terraforming.
 - Javascript, Html, Css.  
 
-## Project Module 2
-- [Github TradExc](https://github.com/jesussantana/Tradexc)
+# Project Module 2
+- ## [Github TradExc](https://github.com/jesussantana/Tradexc)
 - Global Coin Trade & Exchange 
 - An app for improve your money gaming with a Global Digital Coin Exchange.
 - Node.js, Express,js, Handlebar.js, MongoDB.
 
-## Final Project
-- [Github Klout Re-Edition](https://github.com/jesussantana/Klout-App)
+# Final Project
+- ## [Github Klout Re-Edition](https://github.com/jesussantana/Klout-App)
 - It is a social media application that will allow you to control your online presence. It will measure your influence and give you a unified view of all your social media accounts. Presence, reach, interaction of the publications, make a ranking of punctuation compared to your friends on social networks.
 - MongoDB, Express.js, React.js, Node,js.
 
@@ -30,7 +30,7 @@ Bootcamp in Web Development. Get the practical skills you need to land a job in 
 # Course Syllabus
 ---
 # Module 1 - HTML -CSS
-## - 1. [LAB | CSS - Recipes Clone](https://github.com/jesussantana/lab-css-recipes-clone)
+## 1. [LAB | CSS - Recipes Clone](https://github.com/jesussantana/lab-css-recipes-clone)
 
 ## 2. [LAB | CSS - Spotify Clone](https://github.com/jesussantana/lab-express-spotify)
 
