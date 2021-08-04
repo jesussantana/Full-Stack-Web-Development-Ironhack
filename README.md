@@ -5,7 +5,7 @@
 # Objectives
 Bootcamp in Web Development. Get the practical skills you need to land a job in the tech industry. Learn HTML, CSS, Javascript, React, and much more.
 
-# [Ironhack Certificate](https://www.credential.net/9eef6b4e-0989-4d2e-bab4-d5f58037b0b1)
+# [Ironhack Credential](https://www.credential.net/9eef6b4e-0989-4d2e-bab4-d5f58037b0b1)
 
 # Project Module 1
 - ## [Tetris Conquest](https://jesussantana.github.io/TetrisConquest/)
